@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#container {
+    width: 60%;
+    margin: 0 auto;
+}
+.link {
+    color: #0000cc;
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+}
